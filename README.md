@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">A lawyer and İOS Developer frem Türkiye.</h3>
+<h3 align="center">A lawyer and also İOS & Flutter Developer from Türkiye.</h3>
 
 - 🌱 I’m currently learning **Swift/SwiftUI & Flutter**
 
